@@ -9,11 +9,11 @@ Este script tiene como objetivo identificar **rutas de archivos o carpetas** que
 ## 2. Instrucciones de Uso
 
 1. Asegúrate de tener Python 3 instalado en tu sistema.
-2. Guarda el script en un archivo llamado `analizador_rutas.py`.
+2. Guarda el script en un archivo llamado `verificar_rutas.py`.
 3. Ejecuta el script desde la terminal o PowerShell con:
 
 ```bash
-python analizador_rutas.py
+python verificar_rutas.py
 ```
 
 4. Ingresa la ruta raíz que deseas analizar cuando se te solicite (por ejemplo: `H:\NasIndesco\Back_Up\05_25\ADMINISTRACIÓN`)
